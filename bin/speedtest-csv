@@ -78,7 +78,7 @@ function str_extract() {
 debug=false
 header=false
 standardize=true
-share=true
+share=false
 last=false
 version=false
 help=false
